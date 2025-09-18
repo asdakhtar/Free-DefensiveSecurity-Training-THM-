@@ -1,3 +1,5 @@
+THIS IS MODULE 1 ==> "GETTING STARTED"
+
 @@ ROOM1 -
 Starting out in CyberSec [https://tryhackme.com/room/startingoutincybersec?ref=blog.tryhackme.com] 
 DATE- I ALREADY DID THIS IN PREVIOUS MONTHS
@@ -32,17 +34,35 @@ Security Principles  [https://tryhackme.com/room/securityprinciples?ref=blog.try
 ~~TASK 1 = Introduction  
 Learn the importance of foundational security principles and how they guide defensive and offensive strategies.
 ~~TASK 2 = CIA  
-Understand the **Confidentiality, Integrity, Availability** triad—core pillars of cybersecurity protection.~TASK 3 = DAD  
+Understand the **Confidentiality, Integrity, Availability** triad—core pillars of cybersecurity protection.
+-FLAG- THM{CIA_TRIAD}
+~~TASK 3 = DAD  
 Explore **Disclosure, Alteration, Denial**—the threats that challenge the CIA triad.
+-Q- The attacker managed to gain access to customer records and dumped them online. What is this attack?
+-A- Disclosure
+-Q- A group of attackers were able to locate both the main and the backup power supply systems and switch them off. As a result, the whole network was shut down.What is this attack?
+-A- Destruction/Denial
 ~~TASK 4 = Fundamental Concepts of Security Models  
 Get introduced to key models like Bell-LaPadula, Biba, and Clark-Wilson for enforcing security policies.
+-FLAG- THM{SECURITY_MODELS}
 ~~TASK 5 = Defence-in-Depth  
 Learn how layering multiple security controls creates stronger protection against attacks.
 ~~TASK 6 = ISO/IEC 19249  
 Understand this international standard that defines design principles for secure systems.
+-Q- Which principle are you applying when you turn off an insecure server that is not critical to the business?
+-A- 2
+-Q- Your company hired a new sales representative. Which principle are they applying when they tell you to give them access only to the company products and prices?
+-A- 1
+-Q- While reading the code of an ATM, you noticed a huge chunk of code to handle unexpected situations such as network disconnection and power failure. Which principle are they applying?
+-A- 5
 ~~TASK 7 = Zero Trust versus Trust but Verify  
 Compare modern **Zero Trust** architecture with traditional **Trust but Verify** approaches.
 ~~TASK 8 = Threat versus Risk  
 Differentiate between a **threat** (potential harm) and a **risk** (likelihood + impact of that harm).
 ~~TASK 9 = Conclusion  
 Wrap up the room with a recap of key security principles and their role in building secure systems.
+
+@@ ROOM 4 -
+
+
+
