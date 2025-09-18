@@ -3,13 +3,14 @@
 I'll be adding some easy Explanations and some insights about the rooms that are free to read and for practical use from TryHackMe!
 
 @@ ROOM1 -
-Starting out in CyberSec [https://tryhackme.com/room/startingoutincybersec?ref=blog.tryhackme.com] DATE- I ALREADY DID THIS IN PREVIOUS MONTHS
-~TASK1=
+Starting out in CyberSec [https://tryhackme.com/room/startingoutincybersec?ref=blog.tryhackme.com] 
+DATE- I ALREADY DID THIS IN PREVIOUS MONTHS
+~~ TASK1=
 This room is just basic info for new people to know about the teams and basic job roles.
 Offensive security focuses on legally attacking systems to find vulnerabilities—ideal for analytical, curious minds; Penetration testers need broad skills in web, network, scripting, and cloud security (AWS/Azure).
 -Q- What is the name of the career role that is legally employed to find vulnerabilities in applications?
 -A- PENETRATION TESTER
-~TASK2=
+~~ TASK2=
 Defensive security focuses on detecting, analyzing, and stopping cyberattacks—ideal for analytical problem-solvers. Roles like Security Analyst, Incident Responder, and Malware Analyst require deep tech understanding and forensic skills.
 -Q- What is the name of the role who's job is to identify attacks against an organisation?
 -A- SECURITY ANALYST
