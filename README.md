@@ -1,6 +1,8 @@
 # Free-DefensiveSecurity-Training-THM- ( https://tryhackme.com/resources/blog/free-defensive-security-training )
 
 I'll be adding some easy Explanations and some insights about the rooms that are free to read and for practical use from TryHackMe!
+HERE I'LL BE ADDING THE ROOMS FROM "GETTING STARTED MODULE" THE NEXT MODULES WOULD BE ADDED AS TEXT FILES IN SAME BRANCH
+
 
 @@ ROOM1 -
 Starting out in CyberSec [https://tryhackme.com/room/startingoutincybersec?ref=blog.tryhackme.com] 
