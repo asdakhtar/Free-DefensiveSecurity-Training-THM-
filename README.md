@@ -17,8 +17,8 @@ Defensive security focuses on detecting, analyzing, and stopping cyberattacks—
 -Q- What is the name of the role who's job is to identify attacks against an organisation?
 -A- SECURITY ANALYST
 
-@@ ROOM2 -Defensive Security Intro [https://tryhackme.com/room/defensivesecurityintro] DATE - I DID THIS PREVIOUSLY
-Sure! Here's a condensed summary from the TryHackMe Defensive Security info room:
+@@ ROOM2 -
+Defensive Security Intro [https://tryhackme.com/room/defensivesecurityintro] DATE - I DID THIS PREVIOUSLY
 ~~ TASK 1= Introduction to Defensive Security:** Defensive security focuses on monitoring, detecting, and responding to cyber threats using tools like SIEM and threat intelligence.  
 -Q- Which team focuses on defensive security?
 -A- BLUE TEAM
