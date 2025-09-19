@@ -116,3 +116,41 @@ Simulated day includes reviewing logs, updating firewall rules, and collaboratin
 ~~ TASK 7 = Conclusion: 
 Security engineers are proactive defenders who build and maintain secure environments.  
 
+@@ ROOM6 –  
+**Intro to Detection Engineering** [https://tryhackme.com/room/detectionengineeringintro]  
+**DATE** – Completed previously  
+
+~~ **TASK 1 = Introduction:**  
+Overview of detection engineering and its role in modern cybersecurity.  
+
+~~ **TASK 2 = What is Detection Engineering?:**  
+Detection engineering involves crafting logic to identify malicious behavior across systems.  
+**Q:** What is the goal of detection engineering?  
+**A:** To create reliable detections for threats using system data  
+
+~~ **TASK 3 = Detection Engineering Methodologies:**  
+Includes hypothesis-driven detection, behavior-based logic, and threat modeling.  
+**Q:** What’s one common methodology used in detection engineering?  
+**A:** Hypothesis-driven detection  
+
+~~ **TASK 4 = Detection Engineering Frameworks 1:**  
+MITRE ATT&CK is used to map adversary behavior and guide detection logic.  
+**Q:** What framework helps map attacker techniques to detection strategies?  
+**A:** MITRE ATT&CK  
+
+~~ **TASK 5 = Detection Engineering Frameworks 2:**  
+Sigma rules provide a generic format for writing detections across SIEM platforms.  
+**Q:** What is Sigma used for in detection engineering?  
+**A:** Writing SIEM-agnostic detection rules  
+
+~~ **TASK 6 = Detection Detective:**  
+Simulated challenge to identify malicious activity using detection logic.  
+**Q:** What is the flag obtained in the challenge?  
+**A:** `THM{DETECTION-LOGIC-WORKS}`  
+
+---
+
+Ready for ROOM7 or next module — just drop it in.
+
+
+
