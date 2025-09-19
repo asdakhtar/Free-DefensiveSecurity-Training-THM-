@@ -3,7 +3,7 @@
 I'll be adding some easy Explanations and some insights about the rooms that are free to read and for practical use from TryHackMe!
 HERE I'LL BE ADDING THE ROOMS FROM "GETTING STARTED MODULE" THE NEXT MODULES WOULD BE ADDED AS TEXT FILES IN SAME BRANCH
 
-M1 - GETTING STARTED [HERE](/M1_GettingStarted.txt)                                                                                                                    
+M1 - GETTING STARTED [Click Here-](/M1_GettingStarted.txt)                                                                                                                    
 @ROOM1 - Starting Out In Cyber Sec                                                                                                                                     
 @ROOM2 - DEFENSIVE SECURITY INTRO                                                                                                                                      
 @ROOM3 - Security Principles                                                                                                                                           
