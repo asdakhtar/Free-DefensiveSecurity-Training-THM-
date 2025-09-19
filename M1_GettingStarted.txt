@@ -63,6 +63,20 @@ Differentiate between a **threat** (potential harm) and a **risk** (likelihood +
 Wrap up the room with a recap of key security principles and their role in building secure systems.
 
 @@ ROOM 4 -
-
-
-
+Junior Security Analyst Intro [https://tryhackme.com/room/jrsecanalystintrouxo?ref=blog.tryhackme.com]  DATE – Completed previously  
+~~ TASK 1 = A career as a Junior (Associate) Security Analyst:  
+Junior analysts monitor alerts, investigate incidents, and escalate threats within a SOC.  
+-Q- What will be your role as a Junior Security Analyst?
+-A- Triage Specialist
+~~ TASK 2 = Security Operations Center (SOC):**  
+SOC is a centralized team that monitors and defends against cyber threats.  
+-Q: What does SOC stand for?  
+-A: Security Operations Center  
+~~ TASK 3 = A day in the life of a Junior (Associate) Security Analyst:**  
+Analysts start with shift handovers, triage alerts, investigate threats, and document findings.  
+-Q- What was the malicious IP address in the alerts?
+-A- 221.181.185.159
+-Q- To whom did you escalate the event associated with the malicious IP address?
+-A- WILL GRIFFIN
+-Q- After blocking the malicious IP address on the firewall, what message did the malicious actor leave for you?
+-A- THM{UNTIL-WE-MEET-AGAIN}
