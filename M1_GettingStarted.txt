@@ -80,3 +80,39 @@ Analysts start with shift handovers, triage alerts, investigate threats, and doc
 -A- WILL GRIFFIN
 -Q- After blocking the malicious IP address on the firewall, what message did the malicious actor leave for you?
 -A- THM{UNTIL-WE-MEET-AGAIN}
+
+
+@@ ROOM5 –  
+**Security Engineer Intro** [https://tryhackme.com/room/securityengineerintro?ref=blog.tryhackme.com]  DATE – 19 SEPT 2025 
+~~ TASK 1 = Introduction:
+Overview of the security engineer role and its importance in maintaining organizational security.  
+~~ TASK 2 = What is a Security Engineer?:**  
+Security engineers design, implement, and maintain security systems to protect infrastructure.  
+-Q- Who ensures that an organization's cyber security risk is minimized at all times?
+-A- SECURITY ENGINEER
+~~ TASK 3 = Core Responsibilities of a Security Engineer:   
+Includes firewall configuration, vulnerability management, and network hardening.  
+-Q- Where are details about an organization's digital assets, such as name, IP address, and owner, stored?
+-A- Asset inventory
+-Q- Sometimes security policies can't be followed because of business needs. What avenue does a security engineer have to fulfil business needs in these cases?
+-A- Exceptions
+-Q- What philosophy, if followed, provides the most Return on Investment (ROI)?
+-A- Secure by design
+~~ TASK 4 = Continuous Improvement:
+Security engineers continuously refine tools, processes, and policies to stay ahead of threats.  
+-Q- What is considered the weakest link in an organization's security?
+-A- humans
+-Q- An organization's security evolves with the organization. What helps a security engineer keep the organization secure through these changes?
+-A- Change management
+~~ TASK 5 = Additional Roles and Responsibilities:  
+May include mentoring, compliance audits, and incident response support.  
+-Q-What is a theoretical exercise carried out to gauge the operational readiness of an organization from a security point of view?
+-A- Tabletop exercise
+-Q- What is the priority of the management in case of a disaster or crisis?
+-A- Business Continuity
+~~ TASK 6 = Walking in Their Shoes:  
+Simulated day includes reviewing logs, updating firewall rules, and collaborating with teams.  
+-FLAG- THM{S3CUR1TY_3NG1N33R5_R0CK} 
+~~ TASK 7 = Conclusion: 
+Security engineers are proactive defenders who build and maintain secure environments.  
+
