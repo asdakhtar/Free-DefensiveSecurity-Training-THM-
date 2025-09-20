@@ -1,22 +1,13 @@
-@@ROOM 1 -
-Introductory Researching [https://tryhackme.com/room/introtoresearch?ref=blog.tryhackme.com] DATE- 20 SEPT 2025
-~~ TASK 1 = Introduction:**  
-Covers the importance of research skills in penetration testing and cybersecurity.  
-~~ **TASK 2 = Example Research Question:**  
-**Q:** What is the example research question used in this room?  
-**A:** How can I enumerate a web application?  
-
-~~ **TASK 3 = Vulnerability Searching:**  
-**Q:** What is the name of the website that contains a list of CVEs?  
-**A:** cve.mitre.org  
-
-~~ **TASK 4 = Manual Pages:**  
-**Q:** What command would you use to read a manual page?  
-**A:** man  
-
-~~ **TASK 5 = Final Thoughts:**  
-Wrap-up on how research supports effective pentesting and continuous learning.  
-
----
-
-Drop ROOM8 when ready — I’ll keep the format consistent.
+@@ ROOM1 –
+Introductory Researching [https://tryhackme.com/room/introtoresearch?ref=blog.tryhackme.com]
+DATE – Completed previously
+~~ TASK 1 = Introduction:
+Covers why research is essential for effective penetration testing.
+~~ TASK 2 = Example Research Question:
+Demonstrates how to break down and approach a pentesting question.
+~~ TASK 3 = Vulnerability Searching:
+Shows how to find CVEs and use public databases for exploit research.
+~~ TASK 4 = Manual Pages:
+Explains how to use Linux  pages to understand command-line tools.
+~~ TASK 5 = Final Thoughts:
+Wraps up with tips on staying curious and refining research skills.
