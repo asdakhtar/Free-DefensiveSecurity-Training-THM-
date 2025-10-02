@@ -11,3 +11,5 @@ M1 - GETTING STARTED  [-Click Here-](/M1_GettingStarted.txt)
 @ROOM5 - Security Engineer Intro                                                                                                                                       
 @ROOM6 - Intro to Detection Engineering                                                                                                                                
 
+wazuh -26 sept 
+openvas- 10oct
